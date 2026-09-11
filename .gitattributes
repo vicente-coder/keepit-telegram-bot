@@ -1,0 +1,6 @@
+src/*.ts linguist-detectable
+*.jpeg binary
+
+*.tsx linguist-detectable
+public/index.html linguist-vendored
+*.json linguist-detectable=false
