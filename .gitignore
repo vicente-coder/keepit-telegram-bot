@@ -1,0 +1,6 @@
+build/
+coverage/
+.env
+dist/
+node_modules/
+.cache/
